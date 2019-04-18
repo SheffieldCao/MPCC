@@ -1,4 +1,5 @@
 # MPCC
+## From AMZ 苏黎世联邦理工车队
 Simulation environment of the Model Predictive Contouring Controller (MPCC) for Autonomous Racing developed by the Automatic Control Lab (IfA) at ETH Zurich
 
 ## Fromulation
